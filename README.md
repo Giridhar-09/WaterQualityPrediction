@@ -1,2 +1,3 @@
 WaterQualityPrediction_AICTE 
-week1 project Submission.
+week2 project Submission.
+
